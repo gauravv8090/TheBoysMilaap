@@ -97,3 +97,7 @@ form button{
   border-color:  rgb(223, 220, 222);
   margin-left: -300px;
 }
+a{
+  text-decoration: none;
+  color: white;
+}
