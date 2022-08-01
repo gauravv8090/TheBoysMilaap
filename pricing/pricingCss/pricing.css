@@ -51,7 +51,7 @@
     content: "";
     /* background: url("../pricing/img/svg/svg2.svg") no-repeat center
       center/cover; */
-    background: url(/pricing/img/svg/svg2.svg) no-repeat;
+    background: url(/TheBoysMilaap/pricing/img/svg/svg2.svg) no-repeat;
     background-color: #9c3353;
     position: absolute;
     top: 0px;
@@ -89,7 +89,7 @@
     justify-content: space-evenly;
   }
   #why-choose-milap > .choose-milap-box > .choose-milap-img {
-    background: url(/pricing/img/svg/svg4.svg) no-repeat left bottom;
+    background: url(/TheBoysMilaap/pricing/img/svg/svg2.svg) no-repeat left bottom;
     height: 600px;
     width: 400px;
   }
